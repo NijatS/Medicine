@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\bin\Debug\net6.0\PharmacyMedicine.exe
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\bin\Debug\net6.0\PharmacyMedicine.deps.json
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\bin\Debug\net6.0\PharmacyMedicine.runtimeconfig.json
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\bin\Debug\net6.0\PharmacyMedicine.dll
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\bin\Debug\net6.0\PharmacyMedicine.pdb
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.dll
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\refint\PharmacyMedicine.dll
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.pdb
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\PharmacyMedicine.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\PharmacyMedicine\PharmacyMedicine\obj\Debug\net6.0\ref\PharmacyMedicine.dll
